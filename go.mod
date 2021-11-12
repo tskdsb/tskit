@@ -1,3 +1,3 @@
-module tool
+module github.com/tskdsb/tskit
 
-go 1.14
+go 1.16
