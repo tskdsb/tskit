@@ -1,0 +1,4 @@
+repo-path: ""
+imports:
+- pkg: "github.com/pkg/errors"
+  alias: "pkgerrors"
